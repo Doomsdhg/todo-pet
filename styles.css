@@ -1,0 +1,77 @@
+body {
+    background-image: url("inkwell_24_11673_oboi_zvezdnoe_nebo_1400x1050.jpg");
+    background-size: cover;
+}
+#wrapper {
+    border: rgb(11, 0, 112) solid 2px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(11, 0, 112);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color:rgb(17, 38, 133);
+    color:rgb(240, 186, 8);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    padding: 15px 30px;
+}
+#button {
+    background-color: #03a1c9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+#whatToDo {
+    width: 300px ;
+    height: 43px;
+    font-size: 20px;
+}
+
+.deeds {
+font-size: 30px;
+border-top:rgb(121, 106, 255) 3px solid;
+text-align: left;
+width: 500px;
+}
+
+.done {
+    background-color: #03c934;
+    border: none;
+    color: white;
+    padding: 7px 14px;
+    max-width: 8em;
+    min-height: 2em;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+.delete {
+    background-color: #8d0a0a;
+    border: none;
+    color: white;
+    padding: 7px 14px;
+    max-width: 8em;
+    min-height: 2em;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
