@@ -47,6 +47,10 @@ text-align: left;
 width: 500px;
 }
 
+.isdone {
+background-color:rgb(121, 106, 255);
+}
+
 .done {
     background-color: #03c934;
     border: none;
